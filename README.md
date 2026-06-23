@@ -9,6 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=ObaidaAlhaasan&style=flat-square&color=0e75b6&base=4800&label=Profile%20views" alt="Profile views">
 </p>
 
+<h3 align="center">📫 Open to work — Remote (worldwide) or GCC relocation</h3>
+<p align="center">
+  <b>Reach me:</b>&nbsp;
+  <a href="mailto:obaidaalhassan616@gmail.com">obaidaalhassan616@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/obaida-alhassan/">LinkedIn</a>
+</p>
+
 ---
 
 I design and ship **multi-tenant SaaS on .NET and AWS**, and I lead the teams that build them.
@@ -49,7 +57,3 @@ Across 10 years and 20+ projects — some solo, many leading the team — I've s
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ObaidaAlhaasan&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Obaida's GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidaAlhaasan&layout=compact&hide_border=true&title_color=0e75b6" alt="Top languages">
 </p>
-
----
-
-📫  **Open to work** — reach me at **obaidaalhassan616@gmail.com** · [LinkedIn](https://www.linkedin.com/in/obaida-alhassan/)
