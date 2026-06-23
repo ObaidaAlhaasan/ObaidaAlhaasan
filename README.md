@@ -45,7 +45,7 @@ I design and ship **multi-tenant SaaS on .NET and AWS**, and I lead the teams th
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidaAlhaasan&layout=compact&hide_border=true&title_color=0e75b6" alt="Top languages">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ObaidaAlhaasan&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=ObaidaAlhaasan&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub streak">
 </p>
 
 ---
