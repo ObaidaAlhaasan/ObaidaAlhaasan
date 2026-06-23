@@ -20,10 +20,15 @@ I design and ship **multi-tenant SaaS on .NET and AWS**, and I lead the teams th
 - 🌍  Based in Amman, Jordan — open to **remote (worldwide)** and **GCC relocation**
 
 ### 🚀 What I've built
-- **CLIO** — AI-powered time-tracking & project-management SaaS (.NET 9, React, Stripe, MCP/LLM)
-- **Qlinica** — multi-tenant medical-evaluation SaaS, microservices on AWS (99.95% uptime)
-- **Neu.Pos** — cloud POS & inventory SaaS (.NET 8, React, AWS, local hardware agent)
-- **QCli** — .NET CLI that generates Clean Architecture / CQRS CRUD in ~30 seconds
+Across 10 years and 20+ projects — some solo, many leading the team — I've shipped:
+
+- **Multi-tenant SaaS platforms** — point-of-sale & inventory, project-management/time-tracking, and evaluation systems; microservices on AWS at 99.9%+ uptime handling thousands of daily transactions
+- **Healthcare & case-management systems** — clinical evaluation, records/billing, and case-access/authorization platforms for the US market
+- **E-learning** — a learning platform with a full admin/management portal
+- **Real-time & mobile apps** — a first-responder incident-management app (React Native + .NET) and a cross-platform game (HTML5/Phaser, with a mobile build)
+- **Developer tooling** — a Clean Architecture solution template and a CRUD-generation CLI adopted org-wide (boilerplate from days → seconds)
+- **AI/LLM features** — in-product assistants, RAG pipelines, and MCP integrations
+- **Automation & fintech** — automated document/eFolder workflows, e-invoicing integration, and a signal-driven financial-data service
 
 ### 🛠️ Tech
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
