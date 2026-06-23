@@ -6,7 +6,7 @@
   <a href="https://quillysoft.com/"><img src="https://img.shields.io/badge/Website-quillysoft.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:obaidaalhassan616@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%2F%20GCC-2ea44f?style=flat-square" alt="Open to work">
-  <img src="https://komarev.com/ghpvc/?username=ObaidaAlhaasan&style=flat-square&color=0e75b6" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=ObaidaAlhaasan&style=flat-square&color=0e75b6&base=4800&label=Profile%20views" alt="Profile views">
 </p>
 
 ---
@@ -46,11 +46,8 @@ Across 10 years and 20+ projects — some solo, many leading the team — I've s
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ObaidaAlhaasan&show_icons=true&include_all_commits=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Obaida's GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ObaidaAlhaasan&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Obaida's GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidaAlhaasan&layout=compact&hide_border=true&title_color=0e75b6" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ObaidaAlhaasan&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub streak">
 </p>
 
 ---
